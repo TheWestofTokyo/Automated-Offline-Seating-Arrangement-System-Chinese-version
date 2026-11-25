@@ -4,7 +4,7 @@
 
 ## 使用
 
-1. 从[版本发布页](../../releases/latest)下载 Windows 程序并运行。
+1. 从[版本发布页](https://github.com/TheWestofTokyo/Automated-Offline-Seating-Arrangement-System-Chinese-version/releases/latest)下载 Windows 程序并运行。
 2. 默认场地为 **大学生活动中心礼堂**，含 532 个位置，其中普通席 498 个。
 3. 如需其他场地，点击“导入新座位表”，选择 Excel 工作表。
 4. 导入人员名单，核对记录和提示，选择“前排优先”或“同班集中”后开始排座。
