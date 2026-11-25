@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+场地库/
+排座结果_*/
+.seating-*/
+*.log

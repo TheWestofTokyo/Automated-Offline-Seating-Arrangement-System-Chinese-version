@@ -4,7 +4,7 @@
 
 ## 使用
 
-1. 下载 Windows 程序并运行。
+1. 从[版本发布页](../../releases/latest)下载 Windows 程序并运行。
 2. 默认场地为 **大学生活动中心礼堂**，含 532 个位置，其中普通席 498 个。
 3. 如需其他场地，点击“导入新座位表”，选择 Excel 工作表。
 4. 导入人员名单，核对记录和提示，选择“前排优先”或“同班集中”后开始排座。
@@ -45,6 +45,8 @@ python -m unittest discover -p "test_*.py" -v
 ```
 
 Windows 打包命令见 [build.ps1](build.ps1)。
+
+主分支的程序文件更新后，GitHub Actions 会运行测试并创建 Windows 版本发布。发布页提供单文件 EXE、附带模板的压缩包及 SHA256 校验值。
 
 ## 代码结构
 
